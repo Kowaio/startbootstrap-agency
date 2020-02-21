@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+body	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^body {$/;"	function	line:2
+p	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^p {$/;"	function	line:7
+ul	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^ul {$/;"	function	line:11
+p.disclaimer	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^p.disclaimer {$/;"	function	line:15
+p.info	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^p.info {$/;"	function	line:20
+.header-info-text	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^.header-info-text {$/;"	function	line:25
+@media(min-width:768px)	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^@media(min-width:768px) {$/;"	function	line:34
+.header-info-text	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^  .header-info-text {$/;"	function	line:35
+.divider	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^.divider {$/;"	function	line:45
+.div-no-bottom	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^.div-no-bottom {$/;"	function	line:64
+i.padding-horizontal	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^i.padding-horizontal {$/;"	function	line:68
+i.padding-right	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^i.padding-right {$/;"	function	line:73
+i.margin-right	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^i.margin-right {$/;"	function	line:77
+a	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^a {$/;"	function	line:81
+&:hover	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^  &:hover {$/;"	function	line:83
+.text-primary	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^.text-primary {$/;"	function	line:88
+h1	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^h1,$/;"	function	line:92
+h2	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^h2,$/;"	function	line:93
+h3	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^h3,$/;"	function	line:94
+h4	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^h4,$/;"	function	line:95
+h5	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^h5,$/;"	function	line:96
+h6	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^h6 {$/;"	function	line:97
+.page-section	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^.page-section {$/;"	function	line:102
+h2.section-heading	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^  h2.section-heading {$/;"	function	line:104
+h2.section-heading-sub	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^  h2.section-heading-sub {$/;"	function	line:109
+h3.section-subheading	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^  h3.section-subheading {$/;"	function	line:112
+h3.section-subcontact	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^  h3.section-subcontact {$/;"	function	line:122
+@media(min-width:768px)	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^@media(min-width:768px) {$/;"	function	line:126
+section	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^  section {$/;"	function	line:127
+::-moz-selection	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^::-moz-selection {$/;"	function	line:133
+::selection	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^::selection {$/;"	function	line:138
+img::selection	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^img::selection {$/;"	function	line:143
+img::-moz-selection	/Users/Kowaio/Desktop/Betacie/startbootstrap-agency/scss/base/_page.scss	/^img::-moz-selection {$/;"	function	line:147

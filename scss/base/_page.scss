@@ -8,6 +8,76 @@ p {
   line-height: 1.75;
 }
 
+ul {
+  line-height: 1.75;
+}
+
+p.disclaimer {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+p.info {
+  font-size: 20px;
+  margin-bottom: 2px;
+}
+
+.header-info-text {
+  font-size: 62%;
+  font-weight: lighter;
+  padding: 0.75em 0;
+  letter-spacing: 0.2px;
+  color: white;
+  @include heading-font;
+}
+
+@media(min-width:768px) {
+  .header-info-text {
+    font-size: 90%;
+    font-weight: lighter;
+    padding: 0.75em 0;
+    letter-spacing: 0.5px;
+    color: white;
+    @include heading-font;
+  }
+}
+
+.divider {
+	position: relative;
+	height: 1px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.div-transparent:before
+{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 15%;
+	right: 15%;
+	width: 70%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, rgba(48, 49, 51, 0.5), transparent);
+}
+
+.div-no-bottom {
+  margin-bottom: 0px;
+}
+
+i.padding-horizontal {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+i.padding-right {
+  padding-right: 6px;
+}
+
+i.margin-right {
+  margin-right: 25px;
+}
+
 a {
   color: $primary;
   &:hover {
@@ -30,19 +100,27 @@ h6 {
 }
 
 .page-section {
-  padding: 100px 0;
+  padding: 80px 0;
   h2.section-heading {
     font-size: 40px;
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 40px;
+  }
+  h2.section-heading-sub {
+    margin-bottom: 20px;
   }
   h3.section-subheading {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
-    font-style: italic;
-    margin-bottom: 75px;
+    // font-style: italic;
+    //margin-bottom: 75px;
     text-transform: none;
+    padding-left: 6%;
+    padding-right: 6%;
     @include serif-font;
+  }
+  h3.section-subcontact {
+    margin-bottom: 40px;
   }
 }
 @media(min-width:768px) {
